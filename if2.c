@@ -11,14 +11,14 @@ int main()
     {
         printf("So thu 1 lon hon so thu 2");
     }
-    if (num1 == num2)
-    {
-        printf("hai so bang nhau");
-    }
     else
     {
-        printf("So thu 2 lon hon so thu 1");
+        if (num1 == num2)
+        {
+            printf("hai so bang nhau");
+        }
+        else
+            printf("So thu 2 lon hon so thu 1");
     }
-
     return 0;
 }
