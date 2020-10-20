@@ -1,6 +1,7 @@
 {
     "git.ignoreLimitWarning": true,
     "files.associations": {
-        "test1.C": "cpp"
+        "test1.C": "cpp",
+        "sapxep.C": "cpp"
     }
 }
