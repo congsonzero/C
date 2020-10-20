@@ -3,12 +3,13 @@ int main()
 {
     int a, b;
     char kytu;
-    printf("Nhap ky tu:");
-    scanf("%c", &kytu);
     printf("a= ");
     scanf("%d", &a);
     printf("b= ");
     scanf("%d", &b);
+    getchar();
+    printf("Nhap ky tu:");
+    scanf("%c", &kytu);
     switch (kytu)
     {
     case '+':
