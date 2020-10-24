@@ -2,6 +2,9 @@
     "git.ignoreLimitWarning": true,
     "files.associations": {
         "test1.C": "cpp",
-        "sapxep.C": "cpp"
+        "sapxep.C": "cpp",
+        "study.C": "cpp",
+        "bai5.C": "cpp",
+        "bai6.C": "cpp"
     }
 }
